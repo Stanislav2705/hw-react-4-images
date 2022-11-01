@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  padding-bottom: 24px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  padding-bottom: 24px;
+}
